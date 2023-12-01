@@ -16,14 +16,14 @@
 
 ## 📔 Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Logging](#logging)
-- [Testing](#testing)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
+1. [Introduction](#introduction)
+2. [Getting Started](#getting-started)
+3. [Tips and Concepts](#tips-and-concepts)
+   - [📚 Concepts Folder](#concepts-folder)
+   - [💻 Examples Folder](#examples-folder)
+4. [Contributing](#contributing)
+5. [Code of Conduct](#code-of-conduct)
+6. [License](#license)
 
 <hr>
 
