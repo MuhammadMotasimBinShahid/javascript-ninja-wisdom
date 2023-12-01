@@ -20,12 +20,13 @@
    - [📚 Concepts Folder](#concepts-folder)
    - [💻 Examples Folder](#examples-folder)
 4. [Contributing](#contributing)
-5. [License](#license)
+5. [Code of Conduct](#code-of-conduct)
+6. [License](#license)
 
 
 <hr>
 
-## 🌟 Introduction
+## 🌟 Introduction {#introduction}
 
 This repository is a collection of JavaScript learning tips, tricks, concepts, and examples. Whether you're looking to understand the fundamentals or explore advanced topics, you'll find useful information here.
 
@@ -33,14 +34,14 @@ This repository is a collection of JavaScript learning tips, tricks, concepts, a
 <hr>
 
 
-## 🧰 Getting Started
+## 🧰 Getting Started {#getting-started}
 
 To get started with the tips, follow these steps:
 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/javascript-hack-learning-tips.git
+   git clone https://github.com/MuhammadMotasimBinShahid/javascript-hack-learning-tips.git
     ```
    
 2. Open the repository in your favorite code editor.
@@ -57,9 +58,9 @@ To get started with the tips, follow these steps:
 <hr>
 
 
-## 🧠 Tips and Concepts
+## 🧠 Tips and Concepts {#tips-and-concepts}
 
-### 📚 Concepts Folder
+### 📚 Concepts Folder {#concepts-folder}
 
 The `concepts` folder contains a collection of JavaScript concepts. Each concept is explained in a separate Markdown file. The concepts are organized into the following categories:
 
@@ -88,7 +89,7 @@ The `concepts` folder contains a collection of JavaScript concepts. Each concept
 - [Arrow Functions](concepts/23_arrow_functions.md)
 - [Template Literals](concepts/24_template_literals.md)
 
-### 💻 Examples Folder
+### 💻 Examples Folder {#examples-folder}
 
 The `examples` folder contains a collection of JavaScript examples. Each example is explained in a separate Markdown file. The examples are organized into the following categories:
 
@@ -120,7 +121,7 @@ The `examples` folder contains a collection of JavaScript examples. Each example
 
 <hr>
 
-## 👋 Contributing
+## 👋 Contributing {#contributing}
 
 If you'd like to contribute to this project, must go through a pull request and be approved by a core developer before being merged. This is to ensure a proper review of all the code.
 
@@ -132,7 +133,7 @@ Please read the [Contributing Guidelines](CONTRIBUTING.md).
 <hr>
 
 
-## 🤝 Code of Conduct
+## 🤝 Code of Conduct {#code-of-conduct}
 
 By participating in this project, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
@@ -140,6 +141,6 @@ By participating in this project, you agree to abide by the [Code of Conduct](CO
 <hr>
 
 
-## ⚖️ License
+## ⚖️ License {#license}
 
 This project is licensed under the [MIT License](LICENSE).
