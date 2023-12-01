@@ -27,15 +27,14 @@
 
 <hr>
 
-🌟 ## Introduction
+## 🌟 Introduction
 
 This repository is a collection of JavaScript learning tips, tricks, concepts, and examples. Whether you're looking to understand the fundamentals or explore advanced topics, you'll find useful information here.
 
 
 <hr>
 
-
-🧰 ##  Getting Started
+##  🧰 Getting Started
 
 To get started with the tips, follow these steps:
 
@@ -90,7 +89,7 @@ The `concepts` folder contains a collection of JavaScript concepts. Each concept
 - [Arrow Functions](concepts/23_arrow_functions.md)
 - [Template Literals](concepts/24_template_literals.md)
 
-### 💻 Examples Folder
+### Examples Folder
 
 The `examples` folder contains a collection of JavaScript examples. Each example is explained in a separate Markdown file. The examples are organized into the following categories:
 
