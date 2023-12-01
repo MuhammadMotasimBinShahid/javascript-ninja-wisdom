@@ -1,4 +1,18 @@
+<div align='center'>
 
+<img src="public/favicon.png" alt="logo" width="200px" height="200px" />
+
+<h1>JavaScript Ninja Wisdom 🚀</h1>
+<p>JavaScript Ninja Wisdom repository is a collection of JavaScript learning tips, tricks, concepts, and examples. Whether you're looking to understand the fundamentals or explore advanced topics, you'll find useful information here.</p>
+
+<a href="#concepts-folder">📚 Concepts</a> |
+<a href="#examples-folder">💻 Examples</a> |
+<a href="#contributing">🤝 Contributing</a> |
+<a href="#license">📜 License</a>
+
+</div>
+
+<hr>
 
 ## 📔 Table of Contents
 
@@ -11,10 +25,14 @@
 5. [Code of Conduct](#code-of-conduct)
 6. [License](#license)
 
+<hr>
+
 ## 🌟 Introduction
 
 This repository is a collection of JavaScript learning tips, tricks, concepts, and examples. Whether you're looking to understand the fundamentals or explore advanced topics, you'll find useful information here.
 
+
+<hr>
 
 
 ## 🧰 Getting Started
@@ -36,6 +54,9 @@ To get started with the tips, follow these steps:
 8. If you'd like to support this project, please consider [sponsoring me](github.com/sponsors/your-username).
 9. If you'd like to learn more about me, visit my [website](https://your-username.github.io).
 10. If you'd like to connect with me, visit my [LinkedIn](https://www.linkedin.com/in/your-username) profile.
+
+
+<hr>
 
 
 ## 🧠 Tips and Concepts
@@ -99,6 +120,7 @@ The `examples` folder contains a collection of JavaScript examples. Each example
 - [Template Literals](examples/24_template_literals.md)
 
 
+<hr>
 
 ## 👋 Contributing
 
@@ -109,9 +131,15 @@ I would love pull requests! If you wish to help.
 Please read the [Contributing Guidelines](CONTRIBUTING.md).
 
 
+<hr>
+
+
 ## 🤝 Code of Conduct
 
 By participating in this project, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
+
+
+<hr>
 
 
 ## ⚖️ License
