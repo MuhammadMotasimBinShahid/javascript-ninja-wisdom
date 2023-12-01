@@ -5,7 +5,7 @@
 <h1>JavaScript Ninja Wisdom 🚀</h1>
 <p>JavaScript Ninja Wisdom repository is a collection of JavaScript learning tips, tricks, concepts, and examples. Whether you're looking to understand the fundamentals or explore advanced topics, you'll find useful information here.</p>
 
-<a href="#concepts-folder">📚 Concepts</a> |
+<a href="#">📚 Concepts</a> |
 <a href="#examples-folder">💻 Examples</a> |
 <a href="#contributing">🤝 Contributing</a> |
 <a href="#license">📜 License</a>
@@ -16,28 +16,53 @@
 
 ## 📔 Table of Contents
 
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-3. [Tips and Concepts](#tips-and-concepts)
-   - [📚 Concepts Folder](#concepts-folder)
-   - [💻 Examples Folder](#examples-folder)
-4. [Contributing](#contributing)
-5. [Code of Conduct](#code-of-conduct)
-6. [License](#license)
+1. [About](#star2-about)
+2. [Roadmap](#compass-roadmap)
+3. [Getting Started](#toolbox-getting-started)
+4. [Tips and Concepts](#brain-tips-and-concepts)
+   - [📚 Concepts Folder](#books-concepts-folder)
+   - [💻 Examples Folder](#computer-examples-folder)
+5. [Contributing](#wave-contributing)
+6. [Code of Conduct](#handshake-code-of-conduct)
+7. [License](#scales-license)
 
 <hr>
 
-## :star2: Introduction
+## :star2: About
 
 This repository is a collection of JavaScript learning tips, tricks, concepts, and examples. Whether you're looking to understand the fundamentals or explore advanced topics, you'll find useful information here.
 
 
 <hr>
 
+## :compass: Roadmap
+
+* [x] Variables
+* [ ] Data Types
+* [ ] Operators
+* [ ] Conditionals
+* [ ] Loops
+* [ ] Functions
+* [ ] Objects
+* [ ] Arrays
+* [ ] Classes
+* [ ] Modules
+* [ ] Promises
+* [ ] Async/Await
+* [ ] Generators
+* [ ] Iterators
+* [ ] Maps
+* [ ] Sets
+* [ ] Symbols
+* [ ] Error Handling
+* [ ] Regular Expressions
+* [ ] Destructuring
+* [ ] Spread Operator
+* [ ] Rest Parameters
+* [ ] Arrow Functions
+* [ ] Template Literals
 
 ## :toolbox: Getting Started
-
-To get started with the tips, follow these steps:
 
 1. Clone the repository to your local machine:
 
@@ -59,70 +84,24 @@ To get started with the tips, follow these steps:
 <hr>
 
 
-## 🧠 Tips and Concepts
+## :brain: Tips and Concepts
 
-### 📚 Concepts Folder
+### :books: Concepts Folder
 
 The `concepts` folder contains a collection of JavaScript concepts. Each concept is explained in a separate Markdown file. The concepts are organized into the following categories:
 
 - [Variables](concepts/01_variables.md)
-- [Data Types](concepts/02_data_types.md)
-- [Operators](concepts/03_operators.md)
-- [Conditionals](concepts/04_conditionals.md)
-- [Loops](concepts/05_loops.md)
-- [Functions](concepts/06_functions.md)
-- [Objects](concepts/07_objects.md)
-- [Arrays](concepts/08_arrays.md)
-- [Classes](concepts/09_classes.md)
-- [Modules](concepts/10_modules.md)
-- [Promises](concepts/11_promises.md)
-- [Async/Await](concepts/12_async_await.md)
-- [Generators](concepts/13_generators.md)
-- [Iterators](concepts/14_iterators.md)
-- [Maps](concepts/15_maps.md)
-- [Sets](concepts/16_sets.md)
-- [Symbols](concepts/17_symbols.md)
-- [Error Handling](concepts/18_error_handling.md)
-- [Regular Expressions](concepts/19_regular_expressions.md)
-- [Destructuring](concepts/20_destructuring.md)
-- [Spread Operator](concepts/21_spread_operator.md)
-- [Rest Parameters](concepts/22_rest_parameters.md)
-- [Arrow Functions](concepts/23_arrow_functions.md)
-- [Template Literals](concepts/24_template_literals.md)
 
-### 💻 Examples Folder
+
+### :computer: Examples Folder
 
 The `examples` folder contains a collection of JavaScript examples. Each example is explained in a separate Markdown file. The examples are organized into the following categories:
 
 - [Variables](examples/01_variables.md)
-- [Data Types](examples/02_data_types.md)
-- [Operators](examples/03_operators.md)
-- [Conditionals](examples/04_conditionals.md)
-- [Loops](examples/05_loops.md)
-- [Functions](examples/06_functions.md)
-- [Objects](examples/07_objects.md)
-- [Arrays](examples/08_arrays.md)
-- [Classes](examples/09_classes.md)
-- [Modules](examples/10_modules.md)
-- [Promises](examples/11_promises.md)
-- [Async/Await](examples/12_async_await.md)
-- [Generators](examples/13_generators.md)
-- [Iterators](examples/14_iterators.md)
-- [Maps](examples/15_maps.md)
-- [Sets](examples/16_sets.md)
-- [Symbols](examples/17_symbols.md)
-- [Error Handling](examples/18_error_handling.md)
-- [Regular Expressions](examples/19_regular_expressions.md)
-- [Destructuring](examples/20_destructuring.md)
-- [Spread Operator](examples/21_spread_operator.md)
-- [Rest Parameters](examples/22_rest_parameters.md)
-- [Arrow Functions](examples/23_arrow_functions.md)
-- [Template Literals](examples/24_template_literals.md)
-
 
 <hr>
 
-## 👋 Contributing
+## :wave: Contributing
 
 If you'd like to contribute to this project, must go through a pull request and be approved by a core developer before being merged. This is to ensure a proper review of all the code.
 
@@ -134,7 +113,7 @@ Please read the [Contributing Guidelines](CONTRIBUTING.md).
 <hr>
 
 
-## 🤝 Code of Conduct
+## :handshake: Code of Conduct
 
 By participating in this project, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
@@ -142,6 +121,6 @@ By participating in this project, you agree to abide by the [Code of Conduct](CO
 <hr>
 
 
-## ⚖️ License
+## :scales: License
 
 This project is licensed under the [MIT License](LICENSE).
