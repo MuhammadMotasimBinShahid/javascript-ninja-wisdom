@@ -122,7 +122,11 @@ The `examples` folder contains a collection of JavaScript examples. Each example
 
 ## 👋 Contributing
 
-If you'd like to contribute to this project, please read the [Contributing Guidelines](CONTRIBUTING.md).
+If you'd like to contribute to this project, must go through a pull request and be approved by a core developer before being merged. This is to ensure a proper review of all the code.
+
+I would love pull requests! If you wish to help. 
+
+Please read the [Contributing Guidelines](CONTRIBUTING.md).
 
 
 <hr>
