@@ -3,30 +3,31 @@
 <img src="public/favicon.png" alt="logo" width="200px" height="200px" />
 
 <h1>JavaScript Ninja Wisdom 🚀</h1>
-<p>JavaScript Ninja Wisdom repository is a collection of JavaScript learning tips, tricks, concepts, and examples. Whether you're looking to understand the fundamentals or explore advanced topics, you'll find useful information here.
+<p>JavaScript Ninja Wisdom repository is a collection of JavaScript learning tips, tricks, concepts, and examples. Whether you're looking to understand the fundamentals or explore advanced topics, you'll find useful information here.</p>
 
-📚 Concepts | 💻 Examples | 📝 Exercises | 📖 Resources | 📌 Roadmap | 🤝 Contributing | 📜 License
+<a href="#concepts-folder">📚 Concepts</a> |
+<a href="#examples-folder">💻 Examples</a> |
+<a href="#contributing">🤝 Contributing</a> |
+<a href="#license">📜 License</a>
 
 </div>
 
 <hr>
 
-
 ## 📔 Table of Contents
 
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-3. [Tips and Concepts](#tips-and-concepts)
-   - [📚 Concepts Folder](#concepts-folder)
-   - [💻 Examples Folder](#examples-folder)
-4. [Contributing](#contributing)
-5. [Code of Conduct](#code-of-conduct)
-6. [License](#license)
-
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Logging](#logging)
+- [Testing](#testing)
+- [Troubleshooting](#troubleshooting)
+- [Contributing](#contributing)
+- [License](#license)
 
 <hr>
 
-## 🌟 Introduction {#introduction}
+## 🌟 Introduction
 
 This repository is a collection of JavaScript learning tips, tricks, concepts, and examples. Whether you're looking to understand the fundamentals or explore advanced topics, you'll find useful information here.
 
@@ -34,7 +35,7 @@ This repository is a collection of JavaScript learning tips, tricks, concepts, a
 <hr>
 
 
-## 🧰 Getting Started {#getting-started}
+## 🧰 Getting Started
 
 To get started with the tips, follow these steps:
 
@@ -58,9 +59,9 @@ To get started with the tips, follow these steps:
 <hr>
 
 
-## 🧠 Tips and Concepts {#tips-and-concepts}
+## 🧠 Tips and Concepts
 
-### 📚 Concepts Folder {#concepts-folder}
+### 📚 Concepts Folder
 
 The `concepts` folder contains a collection of JavaScript concepts. Each concept is explained in a separate Markdown file. The concepts are organized into the following categories:
 
@@ -89,7 +90,7 @@ The `concepts` folder contains a collection of JavaScript concepts. Each concept
 - [Arrow Functions](concepts/23_arrow_functions.md)
 - [Template Literals](concepts/24_template_literals.md)
 
-### 💻 Examples Folder {#examples-folder}
+### 💻 Examples Folder
 
 The `examples` folder contains a collection of JavaScript examples. Each example is explained in a separate Markdown file. The examples are organized into the following categories:
 
@@ -121,7 +122,7 @@ The `examples` folder contains a collection of JavaScript examples. Each example
 
 <hr>
 
-## 👋 Contributing {#contributing}
+## 👋 Contributing
 
 If you'd like to contribute to this project, must go through a pull request and be approved by a core developer before being merged. This is to ensure a proper review of all the code.
 
@@ -133,7 +134,7 @@ Please read the [Contributing Guidelines](CONTRIBUTING.md).
 <hr>
 
 
-## 🤝 Code of Conduct {#code-of-conduct}
+## 🤝 Code of Conduct
 
 By participating in this project, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
@@ -141,6 +142,6 @@ By participating in this project, you agree to abide by the [Code of Conduct](CO
 <hr>
 
 
-## ⚖️ License {#license}
+## ⚖️ License
 
 This project is licensed under the [MIT License](LICENSE).
