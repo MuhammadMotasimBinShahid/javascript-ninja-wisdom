@@ -27,7 +27,7 @@
 
 <hr>
 
-## 🌟 Introduction
+🌟 ## Introduction
 
 This repository is a collection of JavaScript learning tips, tricks, concepts, and examples. Whether you're looking to understand the fundamentals or explore advanced topics, you'll find useful information here.
 
@@ -35,7 +35,7 @@ This repository is a collection of JavaScript learning tips, tricks, concepts, a
 <hr>
 
 
-## 🧰 Getting Started
+🧰 ##  Getting Started
 
 To get started with the tips, follow these steps:
 
