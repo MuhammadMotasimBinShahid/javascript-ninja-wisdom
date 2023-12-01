@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src="https://raw.githubusercontent.com/MuhammadMotasimBinShahid/codefolio/main/public/favicon.png" alt="logo" width="200px" height="200px" />
+<img src="public/favicon.png" alt="logo" width="200px" height="200px" />
 
 <h1>JavaScript Ninja Wisdom 🚀</h1>
 <p>JavaScript Ninja Wisdom repository is a collection of JavaScript learning tips, tricks, concepts, and examples. Whether you're looking to understand the fundamentals or explore advanced topics, you'll find useful information here.
