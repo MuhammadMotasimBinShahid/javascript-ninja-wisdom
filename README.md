@@ -5,14 +5,13 @@
 <h1>JavaScript Ninja Wisdom 🚀</h1>
 <p>JavaScript Ninja Wisdom repository is a collection of JavaScript learning tips, tricks, concepts, and examples. Whether you're looking to understand the fundamentals or explore advanced topics, you'll find useful information here.</p>
 
-<a href="#">📚 Concepts</a> |
-<a href="#examples-folder">💻 Examples</a> |
-<a href="#contributing">🤝 Contributing</a> |
-<a href="#license">📜 License</a>
+<a href="#books-concepts-folder">📚 Concepts</a> |
+<a href="#computer-examples-folder">💻 Examples</a> |
+<a href="#wave-contributing">🤝 Contributing</a> |
+<a href="#scales-license">📜 License</a>
 
 </div>
 
-<hr>
 
 ## 📔 Table of Contents
 
@@ -26,14 +25,11 @@
 6. [Code of Conduct](#handshake-code-of-conduct)
 7. [License](#scales-license)
 
-<hr>
 
 ## :star2: About
 
 This repository is a collection of JavaScript learning tips, tricks, concepts, and examples. Whether you're looking to understand the fundamentals or explore advanced topics, you'll find useful information here.
 
-
-<hr>
 
 ## :compass: Roadmap
 
@@ -81,8 +77,6 @@ This repository is a collection of JavaScript learning tips, tricks, concepts, a
 10. If you'd like to connect with me, visit my [LinkedIn](https://www.linkedin.com/in/your-username) profile.
 
 
-<hr>
-
 
 ## :brain: Tips and Concepts
 
@@ -99,7 +93,7 @@ The `examples` folder contains a collection of JavaScript examples. Each example
 
 - [Variables](examples/01_variables.md)
 
-<hr>
+
 
 ## :wave: Contributing
 
@@ -110,15 +104,11 @@ I would love pull requests! If you wish to help.
 Please read the [Contributing Guidelines](CONTRIBUTING.md).
 
 
-<hr>
-
 
 ## :handshake: Code of Conduct
 
 By participating in this project, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-
-<hr>
 
 
 ## :scales: License
