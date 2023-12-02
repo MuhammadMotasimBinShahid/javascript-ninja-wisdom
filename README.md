@@ -70,11 +70,11 @@ This repository is a collection of JavaScript learning tips, tricks, concepts, a
 3. Navigate to the `concepts` folder to view the concepts.
 4. Navigate to the `examples` folder to view the examples.
 5. Start learning!
-6. If you have any questions, feel free to [open an issue](github.com/your-username/javascript-hack-learning-tips/issues/new).
-7. If you'd like to contribute, see the [Contributing](#contributing) section below.
-8. If you'd like to support this project, please consider [sponsoring me](github.com/sponsors/your-username).
+6. If you have any questions, feel free to [open an issue](github.com/MuhammadMotasimBinShahid/javascript-hack-learning-tips/issues/new).
+7. If you'd like to contribute, see the [Contributing](#wave-contributing) section below.
+8. If you'd like to support this project, please consider [sponsoring me](github.com/sponsors/MuhammadMotasimBinShahid).
 9. If you'd like to learn more about me, visit my [website](https://your-username.github.io).
-10. If you'd like to connect with me, visit my [LinkedIn](https://www.linkedin.com/in/your-username) profile.
+10. If you'd like to connect with me, visit my [LinkedIn](https://www.linkedin.com/in/muhammad-motasim) profile.
 
 
 
