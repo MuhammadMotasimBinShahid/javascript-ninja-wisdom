@@ -85,6 +85,7 @@ This repository is a collection of JavaScript learning tips, tricks, concepts, a
 The `concepts` folder contains a collection of JavaScript concepts. Each concept is explained in a separate Markdown file. The concepts are organized into the following categories:
 
 - [Variables](concepts/01_variables.md)
+- [Data Types](concepts/02_data_types.md)
 
 
 ### :computer: Examples Folder
@@ -92,6 +93,7 @@ The `concepts` folder contains a collection of JavaScript concepts. Each concept
 The `examples` folder contains a collection of JavaScript examples. Each example is explained in a separate Markdown file. The examples are organized into the following categories:
 
 - [Variables](examples/01_variables.md)
+- [Data Types](examples/02_data_types.js)
 
 
 
