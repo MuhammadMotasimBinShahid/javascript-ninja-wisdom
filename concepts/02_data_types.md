@@ -1,4 +1,4 @@
-# JavaScript Data
+# JavaScript Data Types
 
 Data types are the classifications we give to the different kinds of data that we use in programming.
 
