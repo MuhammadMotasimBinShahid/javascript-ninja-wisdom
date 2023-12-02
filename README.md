@@ -34,7 +34,7 @@ This repository is a collection of JavaScript learning tips, tricks, concepts, a
 ## :compass: Roadmap
 
 * [x] Variables
-* [ ] Data Types
+* [x] Data Types
 * [ ] Operators
 * [ ] Conditionals
 * [ ] Loops
