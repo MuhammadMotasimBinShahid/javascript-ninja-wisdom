@@ -36,7 +36,7 @@ This repository is a collection of JavaScript learning tips, tricks, concepts, a
 * [x] Variables
 * [x] Data Types
 * [x] Operators
-* [ ] Conditionals
+* [x] Conditionals
 * [ ] Loops
 * [ ] Functions
 * [ ] Objects
@@ -87,6 +87,7 @@ The `concepts` folder contains a collection of JavaScript concepts. Each concept
 - [Variables](concepts/01_variables.md)
 - [Data Types](concepts/02_data_types.md)
 - [Operators](concepts/03_operators.md)
+- [Conditionals](concepts/04_conditionals.md)
 
 
 ### :computer: Examples Folder
@@ -96,6 +97,7 @@ The `examples` folder contains a collection of JavaScript examples. Each example
 - [Variables](examples/01_variables.md)
 - [Data Types](examples/02_data_types.js)
 - [Operators](examples/03_operators.js)
+- [Conditionals](examples/04_conditionals.js)
 
 
 ## :wave: Contributing
