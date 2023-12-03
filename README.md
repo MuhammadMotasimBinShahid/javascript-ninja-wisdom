@@ -63,7 +63,7 @@ This repository is a collection of JavaScript learning tips, tricks, concepts, a
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/MuhammadMotasimBinShahid/javascript-hack-learning-tips.git
+   git clone https://github.com/MuhammadMotasimBinShahid/javascript-ninja-wisdom.git
     ```
    
 2. Open the repository in your favorite code editor.
