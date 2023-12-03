@@ -23,7 +23,7 @@
    - [💻 Examples Folder](#computer-examples-folder)
 5. [Contributing](#wave-contributing)
 6. [Code of Conduct](#handshake-code-of-conduct)
-7. [License](#scales-license)
+7. [License](#scroll-license)
 
 
 ## :star2: About
@@ -117,6 +117,6 @@ By participating in this project, you agree to abide by the [Code of Conduct](CO
 
 
 
-## :document: License
+## :scroll: License
 
 This project is licensed under the [MIT License](LICENSE).
