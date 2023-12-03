@@ -47,6 +47,11 @@ console.log(playerName); // This will print undefined
 let id = Symbol("id");
 console.log(id); // This will print Symbol(id)
 
+/** BigInt **/
+
+let phoneNumber = BigInt("03445060985");
+console.log(phoneNumber); // This will print 03445060985
+
 /** Non-Primitive Data Types **/
 
 /** Object **/

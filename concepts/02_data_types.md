@@ -2,7 +2,7 @@
 
 Data types are the classifications we give to the different kinds of data that we use in programming.
 
-In JavaScript, there are seven fundamental data types where are categorized as either **primitive** or **non-primitive**:
+In JavaScript, there are eight fundamental data types where are categorized as either **primitive** or **non-primitive**:
 
 ## Primitive Data Types
 
@@ -20,6 +20,7 @@ Primitive data types are the most basic data types in JavaScript. They include:
 
 - **Symbol**: A newer feature to the language, symbols are unique identifiers, useful in more complex coding. No need to worry about these for now.
 
+- **BigInt**: This data type is donated by the keyword `BigInt` (without quotes). it allows to work with integers beyond the limitations of the regular JavaScript Number type, which is a 64-bit floating-point number.
 
 ### Examples
 
@@ -43,6 +44,9 @@ let time;
 
 // symbol
 const id = Symbol('id');
+
+// bigint
+let phoneNumber = BigInt('03405060823');
 
 ```
 
