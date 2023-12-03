@@ -1,4 +1,4 @@
-/** JavaScript Conditionals in version ES6 and above Examples **/
+/** JavaScript Conditionals **/
 
 /** if...else...else if...  Statement **/
 

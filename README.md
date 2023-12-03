@@ -37,7 +37,7 @@ This repository is a collection of JavaScript learning tips, tricks, concepts, a
 * [x] Data Types
 * [x] Operators
 * [x] Conditionals
-* [ ] Loops
+* [x] Loops
 * [ ] Functions
 * [ ] Objects
 * [ ] Arrays
@@ -88,6 +88,7 @@ The `concepts` folder contains a collection of JavaScript concepts. Each concept
 - [Data Types](concepts/02_data_types.md)
 - [Operators](concepts/03_operators.md)
 - [Conditionals](concepts/04_conditionals.md)
+- [Loops](concepts/05_loops.md)
 
 
 ### :computer: Examples Folder
@@ -98,6 +99,7 @@ The `examples` folder contains a collection of JavaScript examples. Each example
 - [Data Types](examples/02_data_types.js)
 - [Operators](examples/03_operators.js)
 - [Conditionals](examples/04_conditionals.js)
+- [Loops](examples/05_loops.js)
 
 
 ## :wave: Contributing
@@ -109,13 +111,12 @@ I would love pull requests! If you wish to help.
 Please read the [Contributing Guidelines](CONTRIBUTING.md).
 
 
-
 ## :handshake: Code of Conduct
 
 By participating in this project, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 
 
-## :scales: License
+## :document: License
 
 This project is licensed under the [MIT License](LICENSE).
